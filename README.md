@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Analysis Techniques**
 
-- 💬 Ask me about **Microservices, Web Dev, Data Analytics**
+- 💬 Ask me about **Microservices, Flask, Data Analytics**
 
 - 📫 How to reach me **aadharshrajagopal13@gmail.com**
 
