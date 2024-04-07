@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aadharsh Rajagopal</h1>
+<h1 align="center">Hi 👋, I'm Aadharsh</h1>
 <h3 align="center">Coding My Way Through University: A Diary of Data and Development</h3>
 
 
