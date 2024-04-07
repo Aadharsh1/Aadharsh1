@@ -10,7 +10,6 @@
 
 - 📄 Know about my experiences [https://github.com/Aadharsh1/my-resume/blob/3339fab5a79c2045aae99b78dace5cc007b93fea/Aadharsh_Rajagopal_Resume.md](https://github.com/Aadharsh1/my-resume/blob/3339fab5a79c2045aae99b78dace5cc007b93fea/Aadharsh_Rajagopal_Resume.md)
 
-- ⚡ Fun fact **I love chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
