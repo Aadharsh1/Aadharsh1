@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aadharsh</h1>
 <h3 align="center">Coding My Way Through University: A Diary of Data and Development</h3>
 
-- 🌱 I’m currently learning **Data Analysis Techniques**
+- 🌱 I’m currently learning about **Deep Learning and Conformal Prediction Techniques**
 
-- 💬 Ask me about **Microservices, Flask, Data Analytics**
+- 💬 Ask me about **Microservices, Flask, Data Analytics, Neural Networks**
 
 - 📫 How to reach me **aadharshrajagopal13@gmail.com**
 
