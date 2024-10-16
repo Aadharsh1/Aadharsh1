@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **aadharshrajagopal13@gmail.com**
 
-- 📄 Know about my experiences [here](https://github.com/Aadharsh1/my-resume/blob/3339fab5a79c2045aae99b78dace5cc007b93fea/Aadharsh_Rajagopal_Resume.md)
+- 📄 Know about my experiences [here](https://github.com/Aadharsh1/my-resume/blob/main/resume.md
+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
